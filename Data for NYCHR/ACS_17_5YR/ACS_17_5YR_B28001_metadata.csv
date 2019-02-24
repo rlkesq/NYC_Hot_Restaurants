@@ -1,0 +1,25 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HD01_VD01,Estimate; Total:
+HD02_VD01,Margin of Error; Total:
+HD01_VD02,Estimate; Total: - Has one or more types of computing devices:
+HD02_VD02,Margin of Error; Total: - Has one or more types of computing devices:
+HD01_VD03,Estimate; Total: - Has one or more types of computing devices: - Desktop or laptop
+HD02_VD03,Margin of Error; Total: - Has one or more types of computing devices: - Desktop or laptop
+HD01_VD04,Estimate; Total: - Has one or more types of computing devices: - Desktop or laptop - Desktop or laptop with no other type of computing device
+HD02_VD04,Margin of Error; Total: - Has one or more types of computing devices: - Desktop or laptop - Desktop or laptop with no other type of computing device
+HD01_VD05,Estimate; Total: - Has one or more types of computing devices: - Smartphone
+HD02_VD05,Margin of Error; Total: - Has one or more types of computing devices: - Smartphone
+HD01_VD06,Estimate; Total: - Has one or more types of computing devices: - Smartphone - Smartphone with no other type of computing device
+HD02_VD06,Margin of Error; Total: - Has one or more types of computing devices: - Smartphone - Smartphone with no other type of computing device
+HD01_VD07,Estimate; Total: - Has one or more types of computing devices: - Tablet or other portable wireless computer
+HD02_VD07,Margin of Error; Total: - Has one or more types of computing devices: - Tablet or other portable wireless computer
+HD01_VD08,Estimate; Total: - Has one or more types of computing devices: - Tablet or other portable wireless computer - Tablet or other portable wireless computer with no other type of computing device
+HD02_VD08,Margin of Error; Total: - Has one or more types of computing devices: - Tablet or other portable wireless computer - Tablet or other portable wireless computer with no other type of computing device
+HD01_VD09,Estimate; Total: - Has one or more types of computing devices: - Other computer
+HD02_VD09,Margin of Error; Total: - Has one or more types of computing devices: - Other computer
+HD01_VD10,Estimate; Total: - Has one or more types of computing devices: - Other computer - Other computer with no other type of computing device
+HD02_VD10,Margin of Error; Total: - Has one or more types of computing devices: - Other computer - Other computer with no other type of computing device
+HD01_VD11,Estimate; Total: - No Computer
+HD02_VD11,Margin of Error; Total: - No Computer
